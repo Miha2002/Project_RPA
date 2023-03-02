@@ -1,4 +1,4 @@
-# Project_RPA
+# Credit Card Application
 
 Robotic process automation (RPA) is a software technology that makes it easy to build, deploy, and manage software robots that emulate humans actions interacting with digital systems and software.
 
